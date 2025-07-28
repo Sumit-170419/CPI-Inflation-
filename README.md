@@ -3,7 +3,7 @@
 # Overview 
 In India, the Consumer Price Index (CPI) is used to measure inflation, and it involves a fixed basket of goods and services. The basket is comprehensive and includes a wide array of items that an average indian consumer uses. These items are not limited to just food and clothing but extend to transportation,medical care,electricity and almost every other category that involves expenditure of money.The CPI is calculated by comparing the general price level in the market during a particular time period with a base year.
 
-#Problem Statement:
+# Problem Statement:
 You are working with the National Statistical Office which is equipped to release inflation numbers in India. As an Analyst,you are provided with CPI data and are equipped to find out insights from the data.Your senior wants you to find key trends and deep dive into the data to answer the following questions- 
 
 1. Based on the latest month's data,identify the contribution of different broader categories towards the CPI basket.Broader categories can be created by combining similar categories into one bucket.
